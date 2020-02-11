@@ -8,6 +8,7 @@ Blue
 Red
 Green
 indigo
+Recycle!
 Unicorn
 These are the color of the rainbow.
 And the Unicorn.
